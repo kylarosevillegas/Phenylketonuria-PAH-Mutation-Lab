@@ -1,0 +1,77 @@
+########################################
+# Program: needle
+# Rundate: Wed 16 Sep 2026 12:01:15
+# Commandline: needle
+#    -asequence /corral4/main/objects/8/1/c/dataset_81c6d8d6-d62e-46d4-814c-554624fefc9b.dat
+#    -bsequence /corral4/main/objects/b/f/3/dataset_bf342a9f-3fd4-4862-8c60-cb0717f03684.dat
+#    -outfile /corral4/main/jobs/079/793/79793700/outputs/dataset_c4769706-f7c4-4180-8a29-f23ba703d18b.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /corral4/main/jobs/079/793/79793700/outputs/dataset_c4769706-f7c4-4180-8a29-f23ba703d18b.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 115-1473_1
+# 2: NM_000277.3_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 453
+# Identity:     452/453 (99.8%)
+# Similarity:   452/453 (99.8%)
+# Gaps:           0/453 ( 0.0%)
+# Score: 2375.0
+# 
+#
+#=======================================
+
+115-1473_1         1 MSTAVLENPGLGRKLSDFGQETSYIEDNCNQNGAISLIFSLKEEVGALAK     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000277.3_1      1 MSTAVLENPGLGRKLSDFGQETSYIEDNCNQNGAISLIFSLKEEVGALAK     50
+
+115-1473_1        51 VLRLFEENDVNLTHIESRPSRLKKDEYEFFTHLDKRSLPALTNIIKILRH    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000277.3_1     51 VLRLFEENDVNLTHIESRPSRLKKDEYEFFTHLDKRSLPALTNIIKILRH    100
+
+115-1473_1       101 DIGATVHELSRDKKKDTVPWFPRTIQELDRFANQILSYGAELDADHPGFK    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000277.3_1    101 DIGATVHELSRDKKKDTVPWFPRTIQELDRFANQILSYGAELDADHPGFK    150
+
+115-1473_1       151 DPVYRARRKQFADIAYNYRHGQPIPRVEYMEEEKKTWGTVFKTLKSLYKT    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000277.3_1    151 DPVYRARRKQFADIAYNYRHGQPIPRVEYMEEEKKTWGTVFKTLKSLYKT    200
+
+115-1473_1       201 HACYEYNHIFPLLEKYCGFHEDNIPQLEDVSQFLQTCTGFRLRPVAGLLS    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000277.3_1    201 HACYEYNHIFPLLEKYCGFHEDNIPQLEDVSQFLQTCTGFRLRPVAGLLS    250
+
+115-1473_1       251 SRDFLGGLAFRVFHCTQYIRHGSKPMYTPEPDICHELLGHVPLFSDRSFA    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000277.3_1    251 SRDFLGGLAFRVFHCTQYIRHGSKPMYTPEPDICHELLGHVPLFSDRSFA    300
+
+115-1473_1       301 QFSQEIGLASLGAPDEYIEKLATIYWFTVEFGLCKQGDSIKAYGAGLLSS    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000277.3_1    301 QFSQEIGLASLGAPDEYIEKLATIYWFTVEFGLCKQGDSIKAYGAGLLSS    350
+
+115-1473_1       351 FGELQYCLSEKPKLLPLELEKTAIQNYTVTEFQPLYYVAESFNDAKEKVR    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000277.3_1    351 FGELQYCLSEKPKLLPLELEKTAIQNYTVTEFQPLYYVAESFNDAKEKVR    400
+
+115-1473_1       401 NFAATIPRPFSVRYDPYTQRIEVLDNTQQLKILADSINSEIGILCSALQK    450
+                     |||||||.||||||||||||||||||||||||||||||||||||||||||
+NM_000277.3_1    401 NFAATIPWPFSVRYDPYTQRIEVLDNTQQLKILADSINSEIGILCSALQK    450
+
+115-1473_1       451 IK*    453
+                     || 
+NM_000277.3_1    451 IK*    453
+
+
+#---------------------------------------
+#---------------------------------------
