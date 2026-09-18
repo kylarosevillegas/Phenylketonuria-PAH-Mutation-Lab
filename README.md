@@ -19,3 +19,11 @@ Computational analysis of the PAH c.1222C>T (p.Arg408Trp) variant associated wit
 ## Project Overview
 
 This repository documents a computational investigation of the molecular basis of phenylketonuria through analysis of the PAH gene. The project compares the wild-type PAH coding sequence with the documented c.1222C>T (p.Arg408Trp) variant and an artificial c.21A>G substitution using sequence translation and protein alignment in Galaxy.
+
+## Disease Background
+
+Phenylketonuria (PKU) is an inherited autosomal recessive metabolic disorder caused primarily by pathogenic variants in the PAH gene. Reduced phenylalanine hydroxylase activity prevents efficient metabolism of phenylalanine, causing phenylalanine to accumulate in the blood and tissues. Persistently elevated phenylalanine can interfere with normal neurological development and function.
+
+## Gene and Normal Protein Function
+
+The PAH gene is located on chromosome 12 at 12q23.2 and encodes phenylalanine hydroxylase. This enzyme normally converts L-phenylalanine to L-tyrosine using tetrahydrobiopterin (BH4) as a cofactor. PAH is primarily cytosolic and participates in phenylalanine catabolism and aromatic amino acid metabolism.
